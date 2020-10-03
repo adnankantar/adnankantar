@@ -12,8 +12,10 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="TeknoTica" width="100px" src="https://raw.githubusercontent.com/cyber-4444/cyber-4444/main/teknotica_logo.png" />][teknotica]
 <br />
+
 [website]: https://yoneticiler.teknotica.com/
 [mail]: mailto:adnan.kantar@teknotica.com
 [linkedin]: https://www.linkedin.com/in/adnan-k/
 [teknotica]: https://teknotica.com/
+
 [![Website](https://img.shields.io/badge/Admin-TeknoTica-green?style=flat-square)](https://teknotica.com/)
