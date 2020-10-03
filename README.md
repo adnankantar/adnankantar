@@ -3,14 +3,15 @@
 **cyber-4444/cyber-4444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <hr>
-<p>
+<p
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Popular Websites Login Pages
 - 🌱 I’m currently learning JS
 - 👯 I’m looking to collaborate with - My Friends
 - 💬 Ask me about Any Time
 - ⚡ Fun fact: I love animals 🐻
-<p/>
+/>
+
 [![Website](https://img.shields.io/badge/Admin-TeknoTica-green?style=flat-square)](https://teknotica.com/)
 
 [![Cyber-4444's github stats](https://github-readme-stats.vercel.app/api?username=cyber-4444&count_private=true&include_all_commits=true&theme=radical)](https://github.com/cyber-4444)
