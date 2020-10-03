@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Adnan Kantar Portfolio Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Adnan Kantar | Mail" width="22px" src="https://www.nikecsolutions.com/wp-content/uploads/2016/11/mail-1454731_1280.png" />][mail]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="TeknoTica" width="22px" src="https://raw.githubusercontent.com/cyber-4444/cyber-4444/main/teknotica_logo.png" />][teknotica]
+[<img align="left" alt="TeknoTica" width="50px" src="https://raw.githubusercontent.com/cyber-4444/cyber-4444/main/teknotica_logo.png" />][teknotica]
 <br />
 <!-- Optional if you have blogs -->
 ## Latest blog posts:
@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 [website]: https://yoneticiler.teknotica.com/
 [mail]: mailto:adnan.kantar@teknotica.com
 [linkedin]: https://www.linkedin.com/in/adnan-k/
-[teknotica]
+[teknotica]: https://teknotica.com/
