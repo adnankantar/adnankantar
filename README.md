@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with - My Friends
 - 💬 Ask me about Any Time
 - ⚡ Fun fact: I love animals 🐻
-<img alt="Adnan Kantar" width="250" src="https://raw.githubusercontent.com/cyber-4444/cyber-4444/main/logo.png" />
 
 [![Website](https://img.shields.io/badge/Admin-TeknoTica-green?style=flat-square)](https://teknotica.com/)
 
@@ -17,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Connect with me:
 [<img align="left" alt="Adnan Kantar Portfolio Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Adnan Kantar | Mail" width="30px" src="https://www.nikecsolutions.com/wp-content/uploads/2016/11/mail-1454731_1280.png" />][mail]
+[<img align="left" alt="Adnan Kantar | Mail" width="28px" src="https://www.nikecsolutions.com/wp-content/uploads/2016/11/mail-1454731_1280.png" />][mail]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="TeknoTica" width="100px" src="https://raw.githubusercontent.com/cyber-4444/cyber-4444/main/teknotica_logo.png" />][teknotica]
 <br />
