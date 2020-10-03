@@ -1,9 +1,10 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Website](https://img.shields.io/badge/Admin-TeknoTica-green?style=flat-square)](https://teknotica.com/)
+<hr>
 <!--
 **cyber-4444/cyber-4444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img align="left" alt="Adnan Kantar" width="200" src="https://raw.githubusercontent.com/cyber-4444/cyber-4444/main/logo.png" />
+<img align="center" alt="Adnan Kantar" width="200" src="https://raw.githubusercontent.com/cyber-4444/cyber-4444/main/logo.png" />
 
 Here are some ideas to get you started:
 
