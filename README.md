@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with - My Friends
 - 💬 Ask me about Any Time
 - ⚡ Fun fact: I love animals 🐻
-<img align="left" alt="Adnan Kantar" width="250" src="https://raw.githubusercontent.com/cyber-4444/cyber-4444/main/logo.png" />
+<img alt="Adnan Kantar" width="250" src="https://raw.githubusercontent.com/cyber-4444/cyber-4444/main/logo.png" />
 
 [![Website](https://img.shields.io/badge/Admin-TeknoTica-green?style=flat-square)](https://teknotica.com/)
 
